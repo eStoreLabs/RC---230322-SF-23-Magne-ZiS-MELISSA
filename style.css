@@ -803,7 +803,6 @@ body {
 }
 @container (min-width: 768px) {
   #es-magne.es-magne .es-cross {
-    height: 144cqi;
     background: url(img/bg-cross.png) no-repeat center center;
   }
   #es-magne.es-magne .es-cross__title {
@@ -820,6 +819,9 @@ body {
     padding: 12px 24px;
     text-align: center;
     width: 130px;
+  }
+  #es-magne.es-magne .es-cross__link--main {
+    width: 300px;
   }
   #es-magne.es-magne .es-cross__product {
     max-width: 262px;
