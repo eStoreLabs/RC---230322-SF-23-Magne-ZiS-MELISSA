@@ -33,7 +33,7 @@ didn't remove JS, but in case it doesn't work it doesn't really break anything (
 
 ~~4. Remove all videos. Melissa does not accept any videos in code.~~
 
-5. All images should be in webp. format.
+~~5. All images should be in webp. format.~~
 
 6. Whole card needs to have less than <500kb.
 
