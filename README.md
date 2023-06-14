@@ -1,4 +1,4 @@
-# SANOFI Magne ZiS Generyk, 230322-SF-23
+# SANOFI Magne ZiS adaptacja na Aptekę Melissy, 230322-SF-23
 <!-- please enter project number recived from PM -->
 
 ## LIVE SITE LINK 
@@ -15,7 +15,9 @@
 
 ### DESTINATION (name of e-retailer or general/pure)
 <!-- please enter e-retailers name -->
-Generic, then Melissa
+Apteka Melissy
 
 ### E-RETAILER’S SPECIFICATION (technical guidelines; html, css, graphics, photos, resolution)
 <!-- please enter any additional comments important for the project -->
+alt texts for images per Sanofi requirements (no worries, they are outrageous)
+[file](https://docs.google.com/spreadsheets/d/1xbkarZvwmKiCVTL0YrRevg9i-aZxZZR9/edit#gid=1909758192)
