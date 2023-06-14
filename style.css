@@ -124,7 +124,7 @@ body {
 }
 #es-magne.es-magne .es-kv {
   padding: 20px 16px 16px 16px;
-  background: url(img/bg-kv.png) no-repeat center;
+  background: url(img/bg-kv.webp) no-repeat center;
   background-size: cover;
   height: 112cqi;
   display: flex;
@@ -237,7 +237,7 @@ body {
 #es-magne.es-magne .es-features {
   padding: 16px;
   padding-bottom: 53px;
-  background: url(img/bg-features.jpg) no-repeat center left;
+  background: url(img/bg-features.webp) no-repeat center left;
   background-size: cover;
 }
 #es-magne.es-magne .es-features__list {
@@ -327,7 +327,7 @@ body {
 }
 @container (min-width: 768px) {
   #es-magne.es-magne .es-features {
-    background: url(img/bg-features.jpg) no-repeat center 0%;
+    background: url(img/bg-features.webp) no-repeat center 0%;
   }
   #es-magne.es-magne .es-features__item {
     width: calc(25% - 15px);
@@ -349,7 +349,7 @@ body {
   padding-bottom: 90px;
   height: 66cqi;
   min-height: 380px;
-  background: url(img/bg-info.png) no-repeat center center;
+  background: url(img/bg-info.webp) no-repeat center center;
   background-size: cover;
   display: flex;
   flex-flow: column;
@@ -433,7 +433,7 @@ body {
   z-index: 1;
   margin-bottom: -7cqi;
   padding: 16px;
-  background: url(img/bg-hotspots.png) no-repeat center bottom;
+  background: url(img/bg-hotspots.webp) no-repeat center bottom;
   background-size: contain;
 }
 #es-magne.es-magne .es-hotspots__image {
@@ -538,7 +538,7 @@ body {
 #es-magne.es-magne .es-benefits {
   padding: 16px;
   padding-top: calc(10cqi + 16px);
-  background: url(img/bg-benefits.jpg) no-repeat center center;
+  background: url(img/bg-benefits.webp) no-repeat center center;
   background-size: cover;
   background-position: top;
   margin-bottom: -6cqi;
@@ -714,7 +714,7 @@ body {
 }
 #es-magne.es-magne .es-cross {
   padding: 40px 16px;
-  background: url(img/bg-cross-mb.png) repeat center center;
+  background: url(img/bg-cross-mb.webp) repeat center center;
   background-size: cover;
   background-position: top;
   display: flex;
@@ -803,7 +803,7 @@ body {
 }
 @container (min-width: 768px) {
   #es-magne.es-magne .es-cross {
-    background: url(img/bg-cross.png) no-repeat center center;
+    background: url(img/bg-cross.webp) no-repeat center center;
   }
   #es-magne.es-magne .es-cross__title {
     font-size: 40px;
