@@ -24,7 +24,7 @@ Apteka Melissy
 
 ~~1. `max-width: 790px;`~~
 
-2. styles have to placed in html file ( not in separete css file).
+~~2. styles have to placed in html file ( not in separete css file).~~
 
 ~~3. Remove JavaScript files. All JavaScript content needs to be coded again using only html and css.
 `Ask PM about it. In general, they do not accept JS, but there were exceptions for some RC.`~~
