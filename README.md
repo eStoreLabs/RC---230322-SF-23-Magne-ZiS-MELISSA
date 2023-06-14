@@ -19,5 +19,4 @@ Apteka Melissy
 
 ### E-RETAILER’S SPECIFICATION (technical guidelines; html, css, graphics, photos, resolution)
 <!-- please enter any additional comments important for the project -->
-alt texts for images per Sanofi requirements (no worries, they are outrageous)
-[file](https://docs.google.com/spreadsheets/d/1xbkarZvwmKiCVTL0YrRevg9i-aZxZZR9/edit#gid=1909758192)
+[alt texts](https://docs.google.com/spreadsheets/d/1xbkarZvwmKiCVTL0YrRevg9i-aZxZZR9/edit#gid=1909758192) for images per Sanofi requirements (no worries, they are outrageous)
