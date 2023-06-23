@@ -150,7 +150,7 @@ body {
   font-family: $regular;
   font-weight: 400;
   font-size: 16px;
-  line-height: normal;
+  line-height: 1;
   max-width: 790px;
   margin: 0 auto;
   padding: 0;
@@ -338,7 +338,6 @@ body {
     &__text {
       font-weight: 600;
       font-size: 16px;
-      line-height: normal;
     }
     &__image {
       padding: 32px 0; 
@@ -381,7 +380,6 @@ body {
       &__text {
         font-weight: 600;
         font-size: 20px;
-        line-height: normal;
       }
       &__list {
         margin-bottom: 40px;
@@ -416,6 +414,7 @@ body {
       &__image {
         position: relative;
         right: -24px;
+        top: -18px;
       }
     }
   }
