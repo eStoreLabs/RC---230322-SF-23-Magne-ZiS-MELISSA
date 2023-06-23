@@ -1522,24 +1522,6 @@
       </div>
     </div>
   </div>
-  <script>
-    function handleScreenResize() {
-  let screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-  let detailsElement = document.getElementById("desktopShow");
-
-  if (screenWidth > 576) {
-    detailsElement.open = true;
-  } else {
-    detailsElement.open = false;
-  }
-}
-
-// Initial call to handle screen resize
-handleScreenResize();
-
-// Event listener for screen resize
-window.addEventListener("resize", handleScreenResize);
-  </script>
 </body>
 
 </html>
